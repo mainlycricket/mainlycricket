@@ -27,15 +27,3 @@ I am a young programmer. Having built a few projects, I am currently pursuing th
 <p align="left"> <a href="https://www.github.com/mainlycricket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mainlycricket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mainly_coding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mainlycricket"><img src="https://github-readme-stats.vercel.app/api?username=mainlycricket&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mainlycricket's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/mainlycricket/Programming-Blog-with-CMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mainlycricket&repo=Programming-Blog-with-CMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mainlycricket/InternHub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mainlycricket&repo=InternHub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/mainlycricket/ProCharts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mainlycricket&repo=ProCharts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
