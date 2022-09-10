@@ -6,7 +6,6 @@ I am a young programmer. Having built a few projects, I am currently pursuing th
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [GitHub](http://github.com/mainlycricket)
 * ✉️  You can contact me at [metusharjain@gmail.com](mailto:metusharjain@gmail.com)
-* 🚀  I'm currently working on [ProCharts](http://mainlycricket.github.io/ProCharts/)
 * 🧠  I'm learning MERN stack
 
 ### Skills
