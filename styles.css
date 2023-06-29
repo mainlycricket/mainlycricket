@@ -55,7 +55,7 @@ navbar ul li a {
 }
 
 .summary {
-  color: #be3144;
+  color: #f7bfc7;
   font-style: italic;
   font-size: 1.5rem;
 }
@@ -63,7 +63,7 @@ navbar ul li a {
 #work-experience {
   min-height: 100vh;
   background-color: #7ba1ff36;
-  padding: 2rem 4rem;
+  padding: 5rem 4rem;
 }
 
 .experience-container {
@@ -96,7 +96,6 @@ navbar ul li a {
 
 .work-description li {
   font-weight: lighter;
-  font-size: 1.2rem;
 }
 
 #projects {
@@ -105,7 +104,7 @@ navbar ul li a {
   padding: 5rem 2rem;
 }
 
-#projects h1 {
+#projects h1, #work-experience h1 {
   text-align: center;
   text-decoration: underline;
   font-size: 2em;
@@ -139,6 +138,16 @@ navbar ul li a {
   letter-spacing: 0.5px;
   margin-top: 0.5rem;
   text-align: justify;
+}
+
+#project1-read-more {
+  color: #be3144;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#project1-more-info {
+  display: none;
 }
 
 #skills_certificates {
