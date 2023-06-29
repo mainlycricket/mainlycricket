@@ -40,7 +40,7 @@ navbar ul li a {
 
 #welcome-section,
 #contact {
-  height: 100vh;
+  min-height: 100vh;
   background-color: rgba(0, 0, 0, 0.773);
   display: flex;
   flex-direction: column;
@@ -61,7 +61,7 @@ navbar ul li a {
 }
 
 #work-experience {
-  height: 100vh;
+  min-height: 100vh;
   background-color: #7ba1ff36;
   padding: 2rem 4rem;
 }
@@ -100,30 +100,70 @@ navbar ul li a {
 }
 
 #projects {
-  height: 100vh;
-  background-color: #45567d;
+  min-height: 100vh;
+  background-color: #99cce5bf;
   padding: 5rem 2rem;
 }
 
 #projects h1 {
   text-align: center;
-  color: white;
   text-decoration: underline;
   font-size: 2em;
 }
 
 .projects-container {
   height: 100%;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
 }
 
-.project-tile a {
-  color: white;
-  text-decoration: none;
+.project-item {
+  margin: 0.5rem 0;
+}
+
+.project-title {
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+}
+
+.project-title a {
+  color: black;
+}
+
+.project-summary p {
+  line-height: 1.8rem;
+  letter-spacing: 0.5px;
+  margin-top: 0.5rem;
+  text-align: justify;
+}
+
+#skills_certificates {
+  min-height: 100vh;
+  background-color: rgba(240, 134, 95, 0.5);
+  padding: 5rem 2rem;
+}
+
+.skills-container h2, .certificates-container h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.skills-container ul, .certificates-container ul {
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.skill-title, .certificate-title {
+  font-weight: bold;
+  color: black;
+}
+
+.certificate-issuer {
+  font-style: italic;
 }
 
 #contact p {

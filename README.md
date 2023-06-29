@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a young programmer. Having built a few projects, I am currently pursuing the MERN stack to establish myself as a full-stack developer.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [GitHub](http://github.com/mainlycricket)
+* 🖥️  See my portfolio [here](https://mainlycricket.github.io/mainlycricket/)
 * ✉️  You can contact me at [metusharjain@gmail.com](mailto:metusharjain@gmail.com)
 * 🧠  I'm learning MERN stack
 
