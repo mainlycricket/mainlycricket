@@ -5,7 +5,6 @@ I am a young programmer.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio [here](https://mainlycoding.netlify.app/)
-* ✉️  You can contact me at [metusharjain@gmail.com](mailto:metusharjain@gmail.com)
 
 ### Skills
 
@@ -26,7 +25,7 @@ I am a young programmer.
 
 <p align="left">
   <a href="https://www.github.com/mainlycricket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/mainlycricket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/mainlycoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/mainly_coding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" /></a>
 </p>
 
